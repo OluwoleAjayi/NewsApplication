@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="make_life_more_interesting">Make life more interesting</string>
+    <string name="handpick_stories">We handpick every story so that you can hear</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Log in</string>
+    <string name="already_subscribed">Already subscribed?</string>
+    <string name="what_matters_most">what matters most</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="back">Back</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="logged_in">Log in</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="sign_upNow">Sign Up</string>
+    <string name="you_re_almost_there">You\'re almost there</string>
+    <string name="email">Email</string>
+    <string name="password_min_6_characters">Password (min. 6 characters)</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="person">Profile</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="category">Category</string>
+    <string name="homepage">All News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Category</string>
+    <string name="cancel">Cancel</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="saved_stories">Saved Stories</string>
+    <string name="top_stories">Top Stories</string>
+
+</resources>
